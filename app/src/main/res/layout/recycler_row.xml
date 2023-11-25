@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="104dp"
+    android:layout_height="108dp"
+    android:layout_marginTop="15dp"
+    android:layout_marginLeft="8dp"
+    android:background="@drawable/card_background"
+    android:elevation="3dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/pokemonNumberText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:text="#999"
+        android:layout_alignParentEnd="true"
+        android:textSize="12sp"
+        android:layout_gravity="end"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/main_oval_background"
+        android:id="@+id/backgroundView"/>
+
+
+
+</RelativeLayout>
