@@ -28,6 +28,13 @@ Bu uygulama, aşağıdaki önemli kütüphaneleri içermektedir:
 
 - **RecyclerView:** Listeleri düzenlemek ve göstermek için kullanılan kütüphane. [Dokümantasyon](https://developer.android.com/jetpack/androidx/releases/recyclerview)
 
+## Uygulama İçeriği
+
+Uygulamanın kullanımıyla ilgili bir videoyu aşağıda bulabilirsiniz:
+
+![Uygulama Videosu](https://raw.githubusercontent.com/ErtanAyyildiz/PokemonPazarama/master/assets/gif.gif)
+
+
 
 ## Ekran Görüntüleri
 
