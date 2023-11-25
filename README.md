@@ -34,10 +34,3 @@ Bu uygulama, aşağıdaki önemli kütüphaneleri içermektedir:
 ![Ekran Görüntüsü 1](/screenshots/screenshot1.png)
 ![Ekran Görüntüsü 2](/screenshots/screenshot2.png)
 
-## Katkıda Bulunma
-
-Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen bir çekme isteği gönderin. Katkılarınızı bekliyoruz!
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE.md](LICENSE.md) dosyasına göz atın.
