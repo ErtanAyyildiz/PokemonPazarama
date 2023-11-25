@@ -32,5 +32,5 @@ Bu uygulama, aşağıdaki önemli kütüphaneleri içermektedir:
 ## Ekran Görüntüleri
 
 ![Ekran Görüntüsü 1](https://raw.githubusercontent.com/ErtanAyyildiz/PokemonPazarama/master/assets/image1.jpeg)
-![Ekran Görüntüsü 2](/screenshots/screenshot2.png)
+![Ekran Görüntüsü 2](https://raw.githubusercontent.com/ErtanAyyildiz/PokemonPazarama/master/assets/image2.jpeg)
 
