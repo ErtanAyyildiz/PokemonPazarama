@@ -38,6 +38,6 @@ Uygulamanın kullanımıyla ilgili bir videoyu aşağıda bulabilirsiniz:
 
 ## Ekran Görüntüleri
 
-![Ekran Görüntüsü 1](https://raw.githubusercontent.com/ErtanAyyildiz/PokemonPazarama/master/assets/image1.jpeg)
-![Ekran Görüntüsü 2](https://raw.githubusercontent.com/ErtanAyyildiz/PokemonPazarama/master/assets/image2.jpeg)
+![Ekran Görüntüsü 1](https://raw.githubusercontent.com/ErtanAyyildiz/PokemonPazarama/master/assets/image2.jpeg)
+![Ekran Görüntüsü 2](https://raw.githubusercontent.com/ErtanAyyildiz/PokemonPazarama/master/assets/image1.jpeg)
 
