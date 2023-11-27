@@ -1,5 +1,6 @@
 package com.example.pokemonpazarama.data.api
 
+import com.example.pokemonpazarama.data.dto.StatDTO
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
@@ -11,4 +12,6 @@ class PokemonRepoApi {
         .create(PokemonService::class.java)
 
     suspend fun getSinglePokemon(id: Int) = service.getSinglePokemon(id)
-}
+    suspend fun getPokemonDetail(pokemonId: String): StatDTO {
+        return service.getPokemonDetail(pokemonId)
+    }}
